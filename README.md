@@ -1,3 +1,3 @@
 # Rephrasing Toxic Comments using Unsupervised Test Style Transfer
 
-![splash](https://images.unsplash.com/photo-1540678931042-41a977082abf?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800)
+![splash](https://github.com/timjones1/rephrase-toxic-comments/blob/b930bb4b6be2b324ea99a09282b1b226ff0aeea9/hate%20graffitti.jfif)
