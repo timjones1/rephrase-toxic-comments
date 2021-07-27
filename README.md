@@ -4,4 +4,10 @@
 
 This is the repository for the project i completed as part of the Spring 21 refresh of the online course [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/).
 
-My full project report is hosted on notion.so [here](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f)
+My full project report is hosted on notion.so [here](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f).
+
+We were encouraged to share online proposal and report videos as below:
+
+- [Project Proposal Loom Video](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f#1095da777bc54754a5925c84e70afd5f)
+
+- [Project Report Loom Video](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f#86df0a3d263448eeb51f9d2226e46932)
