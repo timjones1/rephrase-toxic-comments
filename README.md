@@ -11,3 +11,8 @@ We were encouraged to share online proposal and report videos as below:
 - [Project Proposal Loom Video](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f#1095da777bc54754a5925c84e70afd5f)
 
 - [Project Report Loom Video](https://www.notion.so/Rephrasing-Toxic-Comments-using-Unsupervised-Text-Style-Transfer-a23cde34ca28496d96cce6e16a6d565f#86df0a3d263448eeb51f9d2226e46932)
+
+Model training was done on Colab Pro
+
+[Rephrasing Toxic Content using Paraphrase Generation](https://colab.research.google.com/drive/1KMsRKdh9V_QF8Ysnvhq_FLlYJNP9P-ls?usp=sharing) 
+
